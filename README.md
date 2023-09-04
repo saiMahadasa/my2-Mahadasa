@@ -18,3 +18,4 @@ it contains huge **mountains**, **waterfalls** and many more __famous temples__.
 - paratha with mushroom curry
 - kerala traditional rice meal
 
+![linking MyStats.md file to Readme](./MyStats.md)
