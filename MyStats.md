@@ -14,3 +14,13 @@ Here i am recommending 4 kinds of sports that enhances both physical and mental 
 | Volley ball  | improves fitness and hands power and also team management| 2 hours             |
 | Kabaddi      | builds confidence to defeat opponent's from their court  | 1 hour              |
 | Tennis       | enhances speed, timing and body control                  | 30 minutes          |
+
+# Few of my favourite quotes from the scientists 
+
+> If you want to shine like the sun, First burn like the sun
+>
+> -- *Abdul kalam*
+
+> Learn from yesterday, live for today, hope for tomorrow
+>
+> -- *Albert Einsten*
