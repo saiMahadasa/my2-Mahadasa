@@ -24,3 +24,24 @@ Here i am recommending 4 kinds of sports that enhances both physical and mental 
 > Learn from yesterday, live for today, hope for tomorrow
 >
 > -- *Albert Einsten*
+
+# Code fencing CSS Keyframe animation syntax
+
+> "How to stack keyframes in CSS animation programmatically"
+>
+> [Quick-link to the article of Keyframes in CSS on stack overflow](https://stackoverflow.com/questions/70900961/how-to-stack-keyframes-in-css-animation-programmatically)
+
+```
+@keyframes name-of-animation {
+  0%    { opacity: 0; }
+  20%   { opacity: 1; }
+  80%   { opacity: 0; }
+  100%  { opacity: 1; }
+}
+
+.animate-this-element {
+  animation: name-of-animation 5s infinite;
+} 
+```
+
+[Quick link for the snippet source ](https://css-tricks.com/snippets/css/keyframe-animation-syntax/)
