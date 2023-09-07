@@ -4,6 +4,8 @@ i am a kind of person who always wish to capture the beautiful pictures while tr
 
 ![My picture](./my_picture.jpeg)
 
+---------------------------------------------------------------------------------------------------------
+
 # 4 kinds of sports that i recommend others
 
 Here i am recommending 4 kinds of sports that enhances both physical and mental health in order to maintain a better life. I also created a table which represents the sport name , reason for playing and also amount of time required to play.
@@ -15,6 +17,9 @@ Here i am recommending 4 kinds of sports that enhances both physical and mental 
 | Kabaddi      | builds confidence to defeat opponent's from their court  | 1 hour              |
 | Tennis       | enhances speed, timing and body control                  | 30 minutes          |
 
+---------------------------------------------------------------------------------------------------------
+
+
 # Few of my favourite quotes from the scientists 
 
 > If you want to shine like the sun, First burn like the sun
@@ -24,6 +29,9 @@ Here i am recommending 4 kinds of sports that enhances both physical and mental 
 > Learn from yesterday, live for today, hope for tomorrow
 >
 > -- *Albert Einsten*
+
+---------------------------------------------------------------------------------------------------------
+
 
 # Code fencing CSS Keyframe animation syntax
 

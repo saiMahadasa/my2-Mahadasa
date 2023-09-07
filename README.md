@@ -5,6 +5,8 @@
 
 it contains huge **mountains**, **waterfalls** and many more __famous temples__.
 
+---------------------------------------------------------------------------------------------------------
+
 # Ordered list of activities i wish to do at my favourite vacation spot
 
 1. Worshipping god from famous temples.
